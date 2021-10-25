@@ -1,0 +1,836 @@
+Uri: https://violetzherka.com/
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\index.htm
+Content Type: text/html
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/10/bg-dots-new-hero.png
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\10\bg-dots-new-hero.png
+Content Type: image/png
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/09/violet-avatar.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\09\violet-avatar.jpg
+Content Type: image/jpeg
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/09/woman-bg.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\09\woman-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://violetzherka.com/wp-content/themes/Divi/includes/builder/styles/images/preloader.gif
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\themes\Divi\includes\builder\styles\images\preloader.gif
+Content Type: image/gif
+
+Uri: https://violetzherka.com/wp-content/themes/Divi/core/admin/fonts/modules/all/modules.eot
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\themes\Divi\core\admin\fonts\modules\all\modules.eot
+Content Type: 
+
+Uri: https://violetzherka.com/wp-content/themes/Divi/core/admin/fonts/modules/all/modules.eot?
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\themes\Divi\core\admin\fonts\modules\all\modules-1.eot
+Content Type: 
+
+Uri: https://violetzherka.com/wp-content/themes/Divi/core/admin/fonts/modules/all/modules.ttf
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\themes\Divi\core\admin\fonts\modules\all\modules.ttf
+Content Type: x-font/ttf
+
+Uri: https://violetzherka.com/wp-content/themes/Divi/core/admin/fonts/modules/all/modules.woff
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\themes\Divi\core\admin\fonts\modules\all\modules.woff
+Content Type: x-font/woff
+
+Uri: https://violetzherka.com/wp-content/themes/Divi/core/admin/fonts/modules/all/modules.svg
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\themes\Divi\core\admin\fonts\modules\all\modules.svg
+Content Type: image/svg+xml
+
+Uri: https://violetzherka.com/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\feed\index.xml
+Content Type: text/xml
+
+Uri: https://violetzherka.com/comments/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\comments\feed\index.xml
+Content Type: text/xml
+
+Uri: https://violetzherka.com/wp-content/cache/wpfc-minified/1eqy0k79/dkje8.css
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\cache\wpfc-minified\1eqy0k79\dkje8.css
+Content Type: text/css
+
+Uri: https://violetzherka.com/wp-json/
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-json\index.json
+Content Type: application/json
+
+Uri: https://violetzherka.com/wp-json/wp/v2/pages/440
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-json\wp\v2\pages\440.json
+Content Type: application/json
+
+Uri: https://violetzherka.com/wp-includes/wlwmanifest.xml
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://violetzherka.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvioletzherka.com%2F
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-json\oembed\1.0\embed.json
+Content Type: application/json
+
+Uri: https://violetzherka.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvioletzherka.com%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-json\oembed\1.0\embed.xml
+Content Type: text/xml
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/09/cropped-favicon-32x32.png
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\09\cropped-favicon-32x32.png
+Content Type: image/png
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/09/cropped-favicon-192x192.png
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\09\cropped-favicon-192x192.png
+Content Type: image/png
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/09/cropped-favicon-180x180.png
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\09\cropped-favicon-180x180.png
+Content Type: image/png
+
+Uri: https://violetzherka.com/wp-content/cache/wpfc-minified/1fra87dd/dkje8.css
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\cache\wpfc-minified\1fra87dd\dkje8.css
+Content Type: text/css
+
+Uri: https://violetzherka.com/about/
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\about\index.htm
+Content Type: text/html
+
+Uri: https://violetzherka.com/permanent-cosmetics/
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\permanent-cosmetics\index.htm
+Content Type: text/html
+
+Uri: https://violetzherka.com/medical-micropigmentation/
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\medical-micropigmentation\index.htm
+Content Type: text/html
+
+Uri: https://violetzherka.com/additional-services/
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\additional-services\index.htm
+Content Type: text/html
+
+Uri: https://violetzherka.com/permanent-cosmetics-training-academy/
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\permanent-cosmetics-training-academy\index.htm
+Content Type: text/html
+
+Uri: https://violetzherka.com/fundamental-training-course/
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\fundamental-training-course\index.htm
+Content Type: text/html
+
+Uri: https://violetzherka.com/microblading-training/
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\microblading-training\index.htm
+Content Type: text/html
+
+Uri: https://violetzherka.com/powder-brow-training/
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\powder-brow-training\index.htm
+Content Type: text/html
+
+Uri: https://violetzherka.com/dermaplaning-training/
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\dermaplaning-training\index.htm
+Content Type: text/html
+
+Uri: https://violetzherka.com/brow-lamination-training/
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\brow-lamination-training\index.htm
+Content Type: text/html
+
+Uri: https://violetzherka.com/lash-lift-training/
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\lash-lift-training\index.htm
+Content Type: text/html
+
+Uri: https://violetzherka.com/permanent-cosmetics
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\permanent-cosmetics.html
+Content Type: text/html
+
+Uri: https://violetzherka.com/medical-micropigmentation
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\medical-micropigmentation.html
+Content Type: text/html
+
+Uri: https://violetzherka.com/additional-services
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\additional-services.html
+Content Type: text/html
+
+Uri: https://violetzherka.com/2021/09/
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\2021\09\index.htm
+Content Type: text/html
+
+Uri: https://violetzherka.com/category/uncategorized/
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\category\uncategorized\index.htm
+Content Type: text/html
+
+Uri: https://violetzherka.com/wp-login.php
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-login.html
+Content Type: text/html
+
+Uri: https://violetzherka.com/wp-content/cache/wpfc-minified/7xbmk5mk/dkje8.css
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\cache\wpfc-minified\7xbmk5mk\dkje8.css
+Content Type: text/css
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/10/new-logo-2-75px-height-1.png
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\10\new-logo-2-75px-height-1.png
+Content Type: image/png
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/09/three-women-wide-min.png
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\09\three-women-wide-min.png
+Content Type: image/png
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/10/thumbnail_Untitled_Artwork-1-square.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\10\thumbnail_Untitled_Artwork-1-square.jpg
+Content Type: image/jpeg
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/10/eyebrows-peach.png
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\10\eyebrows-peach.png
+Content Type: image/png
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/10/lips-peach.png
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\10\lips-peach.png
+Content Type: image/png
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/10/eyeliner-peach.png
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\10\eyeliner-peach.png
+Content Type: image/png
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/10/thumbnail_Untitled_Artwork-3-services.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\10\thumbnail_Untitled_Artwork-3-services.jpg
+Content Type: image/jpeg
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/10/scar-skretch-cover-up.jpeg
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\10\scar-skretch-cover-up.jpeg
+Content Type: image/jpeg
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/10/thumbnail_Untitled_Artwork-5-services.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\10\thumbnail_Untitled_Artwork-5-services.jpg
+Content Type: image/jpeg
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/09/cosmetic-training.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\09\cosmetic-training.jpg
+Content Type: image/jpeg
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/10/new-logo-2-cropped.png
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\10\new-logo-2-cropped.png
+Content Type: image/png
+
+Uri: https://violetzherka.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://violetzherka.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: https://violetzherka.com/wp-content/themes/Divi/js/scripts.min.js?ver=4.11.1
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\themes\Divi\js\scripts.min.js
+Content Type: application/x-javascript
+
+Uri: https://violetzherka.com/wp-includes/js/jquery/ui/core.min.js?ver=1.12.1
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/x-javascript
+
+Uri: https://violetzherka.com/wp-content/uploads/pum/pum-site-scripts.js?defer&generated=1631897809&ver=1.16.2
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\pum\pum-site-scripts.js
+Content Type: application/x-javascript
+
+Uri: https://violetzherka.com/wp-content/themes/Divi/core/admin/js/common.js?ver=4.11.1
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\themes\Divi\core\admin\js\common.js
+Content Type: application/x-javascript
+
+Uri: https://violetzherka.com/wp-includes/js/wp-embed.min.js?ver=5.8.1
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-includes\js\wp-embed.min.js
+Content Type: application/x-javascript
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/09/three-women-wide-min-980x735.png
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\09\three-women-wide-min-980x735.png
+Content Type: image/png
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/09/three-women-wide-min-480x360.png
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\09\three-women-wide-min-480x360.png
+Content Type: image/png
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/10/thumbnail_Untitled_Artwork-1-square-480x480.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\10\thumbnail_Untitled_Artwork-1-square-480x480.jpg
+Content Type: image/jpeg
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/10/eyebrows-peach-300x300.png
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\10\eyebrows-peach-300x300.png
+Content Type: image/png
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/10/eyebrows-peach-150x150.png
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\10\eyebrows-peach-150x150.png
+Content Type: image/png
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/10/lips-peach-300x300.png
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\10\lips-peach-300x300.png
+Content Type: image/png
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/10/lips-peach-150x150.png
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\10\lips-peach-150x150.png
+Content Type: image/png
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/10/eyeliner-peach-300x300.png
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\10\eyeliner-peach-300x300.png
+Content Type: image/png
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/10/eyeliner-peach-150x150.png
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\10\eyeliner-peach-150x150.png
+Content Type: image/png
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/10/thumbnail_Untitled_Artwork-3-services-480x270.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\10\thumbnail_Untitled_Artwork-3-services-480x270.jpg
+Content Type: image/jpeg
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/10/scar-skretch-cover-up-480x270.jpeg
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\10\scar-skretch-cover-up-480x270.jpeg
+Content Type: image/jpeg
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/10/thumbnail_Untitled_Artwork-5-services-480x270.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\10\thumbnail_Untitled_Artwork-5-services-480x270.jpg
+Content Type: image/jpeg
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/09/cosmetic-training-480x480.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\09\cosmetic-training-480x480.jpg
+Content Type: image/jpeg
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/10/new-logo-2-cropped-980x365.png
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\10\new-logo-2-cropped-980x365.png
+Content Type: image/png
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/10/new-logo-2-cropped-480x179.png
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\10\new-logo-2-cropped-480x179.png
+Content Type: image/png
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/10/about-us-hero.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\10\about-us-hero.jpg
+Content Type: image/jpeg
+
+Uri: https://violetzherka.com/wp-content/cache/wpfc-minified/1op29s40/dqjfz.css
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\cache\wpfc-minified\1op29s40\dqjfz.css
+Content Type: text/css
+
+Uri: https://violetzherka.com/wp-json/wp/v2/pages/529
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-json\wp\v2\pages\529.json
+Content Type: application/json
+
+Uri: https://violetzherka.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvioletzherka.com%2Fabout%2F
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-json\oembed\1.0\embed-1.json
+Content Type: application/json
+
+Uri: https://violetzherka.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvioletzherka.com%2Fabout%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-json\oembed\1.0\embed-1.xml
+Content Type: text/xml
+
+Uri: https://violetzherka.com/wp-content/cache/wpfc-minified/8ygbpmav/dqjfz.css
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\cache\wpfc-minified\8ygbpmav\dqjfz.css
+Content Type: text/css
+
+Uri: https://violetzherka.com/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/jquery.fitvids.js?ver=4.11.1
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\themes\Divi\includes\builder\feature\dynamic-assets\assets\js\jquery.fitvids.js
+Content Type: application/x-javascript
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/09/procedure-1.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\09\procedure-1.jpg
+Content Type: image/jpeg
+
+Uri: https://violetzherka.com/wp-content/cache/wpfc-minified/8uqwub6j/dr8ec.css
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\cache\wpfc-minified\8uqwub6j\dr8ec.css
+Content Type: text/css
+
+Uri: https://violetzherka.com/wp-json/wp/v2/pages/367
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-json\wp\v2\pages\367.json
+Content Type: application/json
+
+Uri: https://violetzherka.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvioletzherka.com%2Fpermanent-cosmetics%2F
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-json\oembed\1.0\embed-2.json
+Content Type: application/json
+
+Uri: https://violetzherka.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvioletzherka.com%2Fpermanent-cosmetics%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-json\oembed\1.0\embed-2.xml
+Content Type: text/xml
+
+Uri: https://violetzherka.com/wp-content/cache/wpfc-minified/1z6nokyd/dr8ec.css
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\cache\wpfc-minified\1z6nokyd\dr8ec.css
+Content Type: text/css
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/09/procedure-2.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\09\procedure-2.jpg
+Content Type: image/jpeg
+
+Uri: https://violetzherka.com/wp-content/cache/wpfc-minified/1dzh7ggt/dqrgb.css
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\cache\wpfc-minified\1dzh7ggt\dqrgb.css
+Content Type: text/css
+
+Uri: https://violetzherka.com/wp-json/wp/v2/pages/397
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-json\wp\v2\pages\397.json
+Content Type: application/json
+
+Uri: https://violetzherka.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvioletzherka.com%2Fmedical-micropigmentation%2F
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-json\oembed\1.0\embed-3.json
+Content Type: application/json
+
+Uri: https://violetzherka.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvioletzherka.com%2Fmedical-micropigmentation%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-json\oembed\1.0\embed-3.xml
+Content Type: text/xml
+
+Uri: https://violetzherka.com/wp-content/cache/wpfc-minified/1cuwbux/dqrgb.css
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\cache\wpfc-minified\1cuwbux\dqrgb.css
+Content Type: text/css
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/09/procedure-4.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\09\procedure-4.jpg
+Content Type: image/jpeg
+
+Uri: https://violetzherka.com/wp-content/cache/wpfc-minified/70h9ywdd/dqrfs.css
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\cache\wpfc-minified\70h9ywdd\dqrfs.css
+Content Type: text/css
+
+Uri: https://violetzherka.com/wp-json/wp/v2/pages/413
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-json\wp\v2\pages\413.json
+Content Type: application/json
+
+Uri: https://violetzherka.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvioletzherka.com%2Fadditional-services%2F
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-json\oembed\1.0\embed-4.json
+Content Type: application/json
+
+Uri: https://violetzherka.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvioletzherka.com%2Fadditional-services%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-json\oembed\1.0\embed-4.xml
+Content Type: text/xml
+
+Uri: https://violetzherka.com/wp-content/cache/wpfc-minified/1pyb4a8d/dqrfs.css
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\cache\wpfc-minified\1pyb4a8d\dqrfs.css
+Content Type: text/css
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/10/main-bg-flipped.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\10\main-bg-flipped.jpg
+Content Type: image/jpeg
+
+Uri: https://violetzherka.com/wp-content/cache/wpfc-minified/def77uts/dqrgh.css
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\cache\wpfc-minified\def77uts\dqrgh.css
+Content Type: text/css
+
+Uri: https://violetzherka.com/wp-json/wp/v2/pages/370
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-json\wp\v2\pages\370.json
+Content Type: application/json
+
+Uri: https://violetzherka.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvioletzherka.com%2Fpermanent-cosmetics-training-academy%2F
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-json\oembed\1.0\embed-5.json
+Content Type: application/json
+
+Uri: https://violetzherka.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvioletzherka.com%2Fpermanent-cosmetics-training-academy%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-json\oembed\1.0\embed-5.xml
+Content Type: text/xml
+
+Uri: https://violetzherka.com/wp-content/cache/wpfc-minified/epnben9/dqrgh.css
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\cache\wpfc-minified\epnben9\dqrgh.css
+Content Type: text/css
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/09/Primary-Training-wout-SPCP-trainer-listed-.pdf
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\09\Primary-Training-wout-SPCP-trainer-listed-.pdf
+Content Type: application/pdf
+
+Uri: https://violetzherka.com/microblading-training
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\microblading-training.html
+Content Type: text/html
+
+Uri: https://violetzherka.com/powder-brow-training
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\powder-brow-training.html
+Content Type: text/html
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/09/1.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\09\1.jpg
+Content Type: image/jpeg
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/10/thumbnail_Untitled_Artwork-1-square-500px.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\10\thumbnail_Untitled_Artwork-1-square-500px.jpg
+Content Type: image/jpeg
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/10/thumbnail_Untitled_Artwork-4-square-500px.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\10\thumbnail_Untitled_Artwork-4-square-500px.jpg
+Content Type: image/jpeg
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/09/1-480x720.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\09\1-480x720.jpg
+Content Type: image/jpeg
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/10/thumbnail_Untitled_Artwork-1-square-500px-480x480.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\10\thumbnail_Untitled_Artwork-1-square-500px-480x480.jpg
+Content Type: image/jpeg
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/10/thumbnail_Untitled_Artwork-4-square-500px-480x480.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\10\thumbnail_Untitled_Artwork-4-square-500px-480x480.jpg
+Content Type: image/jpeg
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/10/fundamental-training.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\10\fundamental-training.jpg
+Content Type: image/jpeg
+
+Uri: https://violetzherka.com/wp-content/cache/wpfc-minified/d34kg4tl/dkjer.css
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\cache\wpfc-minified\d34kg4tl\dkjer.css
+Content Type: text/css
+
+Uri: https://violetzherka.com/wp-json/wp/v2/pages/557
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-json\wp\v2\pages\557.json
+Content Type: application/json
+
+Uri: https://violetzherka.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvioletzherka.com%2Ffundamental-training-course%2F
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-json\oembed\1.0\embed-6.json
+Content Type: application/json
+
+Uri: https://violetzherka.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvioletzherka.com%2Ffundamental-training-course%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-json\oembed\1.0\embed-6.xml
+Content Type: text/xml
+
+Uri: https://violetzherka.com/wp-content/cache/wpfc-minified/8bdgf0ye/dkjer.css
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\cache\wpfc-minified\8bdgf0ye\dkjer.css
+Content Type: text/css
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/10/microblading-hero.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\10\microblading-hero.jpg
+Content Type: image/jpeg
+
+Uri: https://violetzherka.com/wp-content/cache/wpfc-minified/2fm6fidq/dqjg3.css
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\cache\wpfc-minified\2fm6fidq\dqjg3.css
+Content Type: text/css
+
+Uri: https://violetzherka.com/wp-json/wp/v2/pages/458
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-json\wp\v2\pages\458.json
+Content Type: application/json
+
+Uri: https://violetzherka.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvioletzherka.com%2Fmicroblading-training%2F
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-json\oembed\1.0\embed-7.json
+Content Type: application/json
+
+Uri: https://violetzherka.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvioletzherka.com%2Fmicroblading-training%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-json\oembed\1.0\embed-7.xml
+Content Type: text/xml
+
+Uri: https://violetzherka.com/wp-content/cache/wpfc-minified/7jclgcdq/dqjg3.css
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\cache\wpfc-minified\7jclgcdq\dqjg3.css
+Content Type: text/css
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/10/microblading-training.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\10\microblading-training.jpg
+Content Type: image/jpeg
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/10/microblading-training-980x580.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\10\microblading-training-980x580.jpg
+Content Type: image/jpeg
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/10/microblading-training-480x284.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\10\microblading-training-480x284.jpg
+Content Type: image/jpeg
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/10/training-generic.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\10\training-generic.jpg
+Content Type: image/jpeg
+
+Uri: https://violetzherka.com/wp-content/cache/wpfc-minified/8igbrs9t/dqjg1.css
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\cache\wpfc-minified\8igbrs9t\dqjg1.css
+Content Type: text/css
+
+Uri: https://violetzherka.com/wp-json/wp/v2/pages/487
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-json\wp\v2\pages\487.json
+Content Type: application/json
+
+Uri: https://violetzherka.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvioletzherka.com%2Fpowder-brow-training%2F
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-json\oembed\1.0\embed-8.json
+Content Type: application/json
+
+Uri: https://violetzherka.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvioletzherka.com%2Fpowder-brow-training%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-json\oembed\1.0\embed-8.xml
+Content Type: text/xml
+
+Uri: https://violetzherka.com/wp-content/cache/wpfc-minified/9ji7wa2a/dqjg1.css
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\cache\wpfc-minified\9ji7wa2a\dqjg1.css
+Content Type: text/css
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/10/powder-brow-training.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\10\powder-brow-training.jpg
+Content Type: image/jpeg
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/10/powder-brow-training-1280x1283.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\10\powder-brow-training-1280x1283.jpg
+Content Type: image/jpeg
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/10/powder-brow-training-980x982.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\10\powder-brow-training-980x982.jpg
+Content Type: image/jpeg
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/10/powder-brow-training-480x481.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\10\powder-brow-training-480x481.jpg
+Content Type: image/jpeg
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/10/dermaplaning-hero-min.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\10\dermaplaning-hero-min.jpg
+Content Type: image/jpeg
+
+Uri: https://violetzherka.com/wp-content/cache/wpfc-minified/2r14535c/dkjec.css
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\cache\wpfc-minified\2r14535c\dkjec.css
+Content Type: text/css
+
+Uri: https://violetzherka.com/wp-json/wp/v2/pages/628
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-json\wp\v2\pages\628.json
+Content Type: application/json
+
+Uri: https://violetzherka.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvioletzherka.com%2Fdermaplaning-training%2F
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-json\oembed\1.0\embed-9.json
+Content Type: application/json
+
+Uri: https://violetzherka.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvioletzherka.com%2Fdermaplaning-training%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-json\oembed\1.0\embed-9.xml
+Content Type: text/xml
+
+Uri: https://violetzherka.com/wp-content/cache/wpfc-minified/6wbtuwa7/dkjec.css
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\cache\wpfc-minified\6wbtuwa7\dkjec.css
+Content Type: text/css
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/10/dermaplaning.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\10\dermaplaning.jpg
+Content Type: image/jpeg
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/10/dermaplaning-980x957.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\10\dermaplaning-980x957.jpg
+Content Type: image/jpeg
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/10/dermaplaning-480x469.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\10\dermaplaning-480x469.jpg
+Content Type: image/jpeg
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/10/brow-lamination-hero.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\10\brow-lamination-hero.jpg
+Content Type: image/jpeg
+
+Uri: https://violetzherka.com/wp-content/cache/wpfc-minified/2davi38s/dkjeo.css
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\cache\wpfc-minified\2davi38s\dkjeo.css
+Content Type: text/css
+
+Uri: https://violetzherka.com/wp-json/wp/v2/pages/622
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-json\wp\v2\pages\622.json
+Content Type: application/json
+
+Uri: https://violetzherka.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvioletzherka.com%2Fbrow-lamination-training%2F
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-json\oembed\1.0\embed-10.json
+Content Type: application/json
+
+Uri: https://violetzherka.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvioletzherka.com%2Fbrow-lamination-training%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-json\oembed\1.0\embed-10.xml
+Content Type: text/xml
+
+Uri: https://violetzherka.com/wp-content/cache/wpfc-minified/8be4myes/dkjeo.css
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\cache\wpfc-minified\8be4myes\dkjeo.css
+Content Type: text/css
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/10/brow-lamination-1.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\10\brow-lamination-1.jpg
+Content Type: image/jpeg
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/10/brow-lamination-1-480x480.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\10\brow-lamination-1-480x480.jpg
+Content Type: image/jpeg
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/10/lash-lift-hero.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\10\lash-lift-hero.jpg
+Content Type: image/jpeg
+
+Uri: https://violetzherka.com/wp-content/cache/wpfc-minified/2ag8tkth/dq1vo.css
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\cache\wpfc-minified\2ag8tkth\dq1vo.css
+Content Type: text/css
+
+Uri: https://violetzherka.com/wp-json/wp/v2/pages/635
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-json\wp\v2\pages\635.json
+Content Type: application/json
+
+Uri: https://violetzherka.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvioletzherka.com%2Flash-lift-training%2F
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-json\oembed\1.0\embed-11.json
+Content Type: application/json
+
+Uri: https://violetzherka.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvioletzherka.com%2Flash-lift-training%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-json\oembed\1.0\embed-11.xml
+Content Type: text/xml
+
+Uri: https://violetzherka.com/wp-content/cache/wpfc-minified/9i8q2btc/dq1vo.css
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\cache\wpfc-minified\9i8q2btc\dq1vo.css
+Content Type: text/css
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/10/lash-lift.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\10\lash-lift.jpg
+Content Type: image/jpeg
+
+Uri: https://violetzherka.com/wp-content/uploads/2021/10/lash-lift-480x573.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\2021\10\lash-lift-480x573.jpg
+Content Type: image/jpeg
+
+Uri: https://violetzherka.com/wp-content/themes/Divi/core/admin/fonts/modules/base/modules.eot
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\themes\Divi\core\admin\fonts\modules\base\modules.eot
+Content Type: 
+
+Uri: https://violetzherka.com/wp-content/themes/Divi/core/admin/fonts/modules/base/modules.eot?
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\themes\Divi\core\admin\fonts\modules\base\modules-1.eot
+Content Type: 
+
+Uri: https://violetzherka.com/wp-content/themes/Divi/core/admin/fonts/modules/base/modules.ttf
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\themes\Divi\core\admin\fonts\modules\base\modules.ttf
+Content Type: x-font/ttf
+
+Uri: https://violetzherka.com/wp-content/themes/Divi/core/admin/fonts/modules/base/modules.woff
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\themes\Divi\core\admin\fonts\modules\base\modules.woff
+Content Type: x-font/woff
+
+Uri: https://violetzherka.com/wp-content/themes/Divi/core/admin/fonts/modules/base/modules.svg
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\themes\Divi\core\admin\fonts\modules\base\modules.svg
+Content Type: image/svg+xml
+
+Uri: https://violetzherka.com/wp-content/cache/wpfc-minified/212fxqww/fqefp.css
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\cache\wpfc-minified\212fxqww\fqefp.css
+Content Type: text/css
+
+Uri: https://violetzherka.com/2021/09/06/hello-world/
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\2021\09\06\hello-world\index.htm
+Content Type: text/html
+
+Uri: https://violetzherka.com/author/glossyfox/
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\author\glossyfox\index.htm
+Content Type: text/html
+
+Uri: https://violetzherka.com/category/uncategorized/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\category\uncategorized\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://violetzherka.com/wp-json/wp/v2/categories/1
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-json\wp\v2\categories\1.json
+Content Type: application/json
+
+Uri: https://violetzherka.com/wp-content/cache/wpfc-minified/rbi7olz/fqw3v.css
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\cache\wpfc-minified\rbi7olz\fqw3v.css
+Content Type: text/css
+
+Uri: https://violetzherka.com/wp-includes/css/dashicons.min.css?ver=5.8.1
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-includes\css\dashicons.min.css
+Content Type: text/css
+
+Uri: https://violetzherka.com/wp-includes/css/buttons.min.css?ver=5.8.1
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-includes\css\buttons.min.css
+Content Type: text/css
+
+Uri: https://violetzherka.com/wp-admin/css/forms.min.css?ver=5.8.1
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-admin\css\forms.min.css
+Content Type: text/css
+
+Uri: https://violetzherka.com/wp-admin/css/l10n.min.css?ver=5.8.1
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-admin\css\l10n.min.css
+Content Type: text/css
+
+Uri: https://violetzherka.com/wp-admin/css/login.min.css?ver=5.8.1
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-admin\css\login.min.css
+Content Type: text/css
+
+Uri: https://violetzherka.com/wp-login.php?action=lostpassword
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-login-1.html
+Content Type: text/html
+
+Uri: https://violetzherka.com/wp-includes/js/zxcvbn-async.min.js?ver=1.0
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-includes\js\zxcvbn-async.min.js
+Content Type: application/x-javascript
+
+Uri: https://violetzherka.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/x-javascript
+
+Uri: https://violetzherka.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/x-javascript
+
+Uri: https://violetzherka.com/wp-includes/js/dist/hooks.min.js?ver=a7edae857aab69d69fa10d5aef23a5de
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-includes\js\dist\hooks.min.js
+Content Type: application/x-javascript
+
+Uri: https://violetzherka.com/wp-includes/js/dist/i18n.min.js?ver=5f1269854226b4dd90450db411a12b79
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-includes\js\dist\i18n.min.js
+Content Type: application/x-javascript
+
+Uri: https://violetzherka.com/wp-admin/js/password-strength-meter.min.js?ver=5.8.1
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-admin\js\password-strength-meter.min.js
+Content Type: application/x-javascript
+
+Uri: https://violetzherka.com/wp-includes/js/underscore.min.js?ver=1.13.1
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-includes\js\underscore.min.js
+Content Type: application/x-javascript
+
+Uri: https://violetzherka.com/wp-includes/js/wp-util.min.js?ver=5.8.1
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-includes\js\wp-util.min.js
+Content Type: application/x-javascript
+
+Uri: https://violetzherka.com/wp-admin/js/user-profile.min.js?ver=5.8.1
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-admin\js\user-profile.min.js
+Content Type: application/x-javascript
+
+Uri: https://violetzherka.com/2021/09/06/hello-world/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\2021\09\06\hello-world\feed\index.xml
+Content Type: text/xml
+
+Uri: https://violetzherka.com/wp-json/wp/v2/posts/1
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-json\wp\v2\posts\1.json
+Content Type: application/json
+
+Uri: https://violetzherka.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvioletzherka.com%2F2021%2F09%2F06%2Fhello-world%2F
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-json\oembed\1.0\embed-12.json
+Content Type: application/json
+
+Uri: https://violetzherka.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvioletzherka.com%2F2021%2F09%2F06%2Fhello-world%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-json\oembed\1.0\embed-12.xml
+Content Type: text/xml
+
+Uri: https://violetzherka.com/wp-content/cache/wpfc-minified/78n4d85d/ftzl3.css
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\cache\wpfc-minified\78n4d85d\ftzl3.css
+Content Type: text/css
+
+Uri: https://violetzherka.com/wp-content/cache/wpfc-minified/88jl4lbf/ftzl3.css
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\cache\wpfc-minified\88jl4lbf\ftzl3.css
+Content Type: text/css
+
+Uri: https://violetzherka.com/2021/09/06/hello-world/?replytocom=1
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\2021\09\06\hello-world\index-1.htm
+Content Type: text/html
+
+Uri: https://violetzherka.com/wp-includes/js/comment-reply.min.js?ver=5.8.1
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-includes\js\comment-reply.min.js
+Content Type: application/x-javascript
+
+Uri: https://violetzherka.com/author/glossyfox/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\author\glossyfox\feed\index.xml
+Content Type: text/xml
+
+Uri: https://violetzherka.com/wp-content/cache/wpfc-minified/6v8gkzdg/funcr.css
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\cache\wpfc-minified\6v8gkzdg\funcr.css
+Content Type: text/css
+
+Uri: https://violetzherka.com/wp-includes/fonts/dashicons.eot?99ac726223c749443b642ce33df8b800
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-includes\fonts\dashicons.eot
+Content Type: 
+
+Uri: https://violetzherka.com/wp-includes/fonts/dashicons.ttf?99ac726223c749443b642ce33df8b800
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-includes\fonts\dashicons.ttf
+Content Type: x-font/ttf
+
+Uri: https://violetzherka.com/wp-admin/images/loading.gif
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-admin\images\loading.gif
+Content Type: image/gif
+
+Uri: https://violetzherka.com/wp-admin/images/w-logo-blue.png?ver=20131202
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-admin\images\w-logo-blue.png
+Content Type: image/png
+
+Uri: https://violetzherka.com/wp-admin/images/wordpress-logo.svg?ver=20131107
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-admin\images\wordpress-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://violetzherka.com/wp-includes/css/dist/block-library/style.min.css?ver=5.8.1
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://violetzherka.com/wp-content/et-cache/1/et-divi-dynamic-1-late.css?ver=1633586474
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\et-cache\1\et-divi-dynamic-1-late.css
+Content Type: text/css
+
+Uri: https://violetzherka.com/wp-content/uploads/pum/pum-site-styles.css?generated=1631897809&ver=1.16.2
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\uploads\pum\pum-site-styles.css
+Content Type: text/css
+
+Uri: https://violetzherka.com/wp-content/et-cache/global/et-divi-customizer-global.min.css?ver=1633558806
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\et-cache\global\et-divi-customizer-global.min.css
+Content Type: text/css
+
+Uri: https://violetzherka.com/wp-content/et-cache/1/et-core-unified-deferred-1.min.css?ver=1633618867
+File Name: C:\Users\Umarjon\Desktop\sites\violetzherka.com\wp-content\et-cache\1\et-core-unified-deferred-1.min.css
+Content Type: text/css
+
